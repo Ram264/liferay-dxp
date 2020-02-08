@@ -25,6 +25,7 @@ import org.osgi.service.component.annotations.Component;
 public class TestProjectPortlet extends MVCPortlet {
 	
 	
+	int a=10;
 	
 	
 }
