@@ -25,6 +25,7 @@ import org.osgi.service.component.annotations.Component;
 public class TestProjectPortlet extends MVCPortlet {
 	
 	
-	
-	
+	public int addNumber(){int a , int b}
+	int c =a+b:
+		System.out.pritln("C value"+c);
 }
