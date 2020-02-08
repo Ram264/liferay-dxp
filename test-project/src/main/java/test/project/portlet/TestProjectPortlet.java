@@ -25,11 +25,15 @@ import org.osgi.service.component.annotations.Component;
 public class TestProjectPortlet extends MVCPortlet {
 	
 	
+<<<<<<< HEAD
 	public int addNumber(){int a , int b}
 	int c =a+b:
 		System.out.pritln("C value"+c);
 
 	int a=10;
+=======
+	int a=10,b=20;
+>>>>>>> refs/remotes/origin/master
 	
 	
 
